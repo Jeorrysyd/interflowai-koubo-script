@@ -261,7 +261,7 @@ Joyce 正在把 InterflowAI / 互通有无做成一个 founder-led AI implementa
 
 - GitHub: `Jeorrysyd`
 - 小红书 / 视频号: `J在后台`
-- 微信: `JoyceS`
+- 微信: `joycedann`
 
 ---
 
@@ -269,11 +269,11 @@ Joyce 正在把 InterflowAI / 互通有无做成一个 founder-led AI implementa
 
 这套高表现口播稿 Skill，只是 InterflowAI 内容生产系统里的一个小工具。
 
-如果你也在做 AI 内容、AI OPC、一人公司、品牌营销 AI 工作流，或者想了解互通有无 / AIOPC 俱乐部，可以加微信：`JoyceS`，备注「AIOPC」。
+如果你也在做 AI 内容、AI OPC、一人公司、品牌营销 AI 工作流，或者想了解互通有无 / AIOPC 俱乐部，可以加微信：`joycedann`，备注「AIOPC」。
 
-![Joyce 微信二维码](assets/joyce-wechat-qr.jpg)
+<img src="assets/joyce-wechat-qr.jpg" alt="Joyce 微信二维码" width="260" />
 
-不方便扫码也可以搜索微信：`JoyceS`，备注「AIOPC」。
+不方便扫码也可以搜索微信：`joycedann`，备注「AIOPC」。
 
 ---
 

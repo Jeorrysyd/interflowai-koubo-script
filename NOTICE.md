@@ -12,5 +12,4 @@ Author links:
 
 - GitHub: `Jeorrysyd`
 - 小红书 / 视频号: `J在后台`
-- WeChat: `JoyceS`, remark `AIOPC`
-
+- WeChat: `joycedann`, remark `AIOPC`
