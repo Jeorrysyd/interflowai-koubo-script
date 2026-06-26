@@ -1,0 +1,7 @@
+interface:
+  display_name: "InterflowAI 高表现口播稿"
+  short_description: "把松散想法变成可录制可复盘的口播方案"
+  default_prompt: "请使用 $interflowai-koubo-script，把这个想法生成一套可录制、可发布、可复盘的高表现口播方案。"
+
+policy:
+  allow_implicit_invocation: true
