@@ -1,11 +1,11 @@
 ---
 name: interflowai-koubo-script
-description: Generate high-performing Chinese oral-script packages for short-form creator, founder, brand, event recap, product methodology, and social media content. Use when the user asks for 口播稿, 口播方案, 短视频口播文案, 小红书/抖音/视频号口播, founder-led content scripts, turning an idea/business observation/event recap/workflow into a recordable script, or evaluating whether an oral-content topic is worth recording.
+description: 把一个松散想法变成可录制、可发布、可复盘的口播内容包：先判断选题价值，再生成封面、前 5 秒、完整口播、素材清单，并用小红书五维做发布前自检。
 ---
 
 # InterflowAI 高表现口播稿 Skill
 
-把一个松散想法，生成更像高表现内容结构的口播方案。这个 Skill 不是泛文案助手，也不承诺播放结果；它先判断选题是否值得录，再生成可录制、可发布、可复盘的口播内容包。
+把一个松散想法，生成更像高表现内容结构的口播方案。这个 Skill 不是泛文案助手，也不承诺播放结果；它先判断选题是否值得录，再生成可录制、可发布、可复盘的口播内容包，并用小红书口播五维做发布前自检。
 
 ## 身份口径
 
@@ -27,6 +27,7 @@ description: Generate high-performing Chinese oral-script packages for short-for
 - `references/script-dna.md`：把书面想法改成真人能讲出口的口播语言。
 - `references/evidence-rules.md`：补证据、素材、画面和内容资产，避免空泛观点。
 - `references/qa-checklist.md`：发布前评分、失败信号和迭代方法。
+- `references/xhs-five-dimensions.md`：小红书口播五维发布检查；用于封面、开头、内容深度、互动和画面支撑自检。
 - `assets/input-card.md`：用户没有结构化输入时，用它提问或自行补齐。
 - `assets/output-template.md`：最终输出必须覆盖的栏目。
 - `assets/examples/`：匿名化样例，用于校准输出颗粒度，不要照抄。
@@ -61,6 +62,7 @@ description: Generate high-performing Chinese oral-script packages for short-for
 - 流程干货型：适合工具、方法、模板、SOP、工作流。
 - 活动复盘型：适合会议、展会、工作坊、客户现场、路演。
 - 产品方法论型：适合发布一个系统、方法论、工作台或内容生产线。
+- 产品/Skill 示范型：适合宣传一个 Skill、工作台、Agent 或工具；必须像真人示范工作流，不要只介绍功能。
 
 输出时必须解释为什么匹配这个模型，以及不要用哪种写法。
 
@@ -79,13 +81,14 @@ description: Generate high-performing Chinese oral-script packages for short-for
 - 素材和证据清单
 - 结尾互动问题
 - 发布前 QA
+- 小红书口播五维发布检查
 - 发布后复盘表
 
 口播稿要像真人说话，不要像文章、报告、公众号正文或课程讲义。
 
 ### 4. 做 QA，而不是只交稿
 
-读取 `references/qa-checklist.md`，用 100 分 rubric 给输出打分。低于 80 分时，直接给出修订版，不要只解释哪里不好。
+读取 `references/qa-checklist.md` 和 `references/xhs-five-dimensions.md`，先用 100 分 rubric 给输出打分，再用五维发布检查给出具体修订动作。低于 80 分时，直接给出修订版，不要只解释哪里不好。
 
 必须检查这些失败信号：
 
@@ -96,6 +99,8 @@ description: Generate high-performing Chinese oral-script packages for short-for
 - 没有素材清单。
 - 结尾只是“欢迎交流”。
 - 发布后没有复盘资产。
+- 产品/Skill 宣传稿只是在介绍功能，没有用痛点 hook、3-4 步工作流和真实证据来示范怎么用。
+- 没有通过五维发布检查：封面不可点、前 5 秒不留人、中段无证据、结尾不可评论、画面不支撑理解。
 
 ## 输出口径
 
